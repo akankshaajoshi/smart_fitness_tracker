@@ -3,8 +3,7 @@
 A comprehensive fitness tracking web application demonstrating the use of 5 modern Web APIs to solve real-world problems.
 
 ## 🚀 Live Demo
-- **Deployed Site**: https://imaginative-mochi-832d34.netlify.app
-- **Claim URL**: [Transfer to your Netlify account](https://app.netlify.com/claim?utm_source=bolt#eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRfaWQiOiI1aDZmZEstVktNTXZuRjNiRlZUaktfU2JKVGgzNlNfMjJheTlpTHhVX0Q4Iiwic2Vzc2lvbl9pZCI6IjUyNDYxMjgxOjYxMjE1NTgiLCJpYXQiOjE3NTI1NTE5ODN9.oafo_KsAbToYBHdFEiQRf7Ld3tFUMU6LVPVozWGrsxE)
+- **Deployed Site**: https://smart-fitness-tracker.netlify.app/
 
 ## 📋 Assignment Requirements Met
 
@@ -125,6 +124,3 @@ src/
 - **Performance**: Smooth 60fps animations and interactions
 
 ---
-
-**Assignment Submission**: This project demonstrates advanced web development skills using modern APIs to solve real fitness tracking challenges with production-ready code quality.
-</parameter>
