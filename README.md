@@ -1,5 +1,4 @@
-# Smart Fitness Tracker - Frontend Developer Internship Assignment
-
+# Smart Fitness Tracker 
 A comprehensive fitness tracking web application demonstrating the use of 5 modern Web APIs to solve real-world problems.
 
 ## 🚀 Live Demo
